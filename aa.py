@@ -48,12 +48,12 @@ class AndersonAcceleration:
     [1] T. D. Nguyen, A. R. Balef, C. T. Dinh, N. H. Tran, D. T. Ngo, 
         T. A. Le, and P. L. Vo. "Accelerating federated edge learning," 
         in IEEE Communications Letters, 25(10):3282–3286, 2021.
-    [1] D. Scieur, A. d’Aspremont, and F. Bach, “Regularized nonlinear 
+    [2] D. Scieur, A. d’Aspremont, and F. Bach, “Regularized nonlinear 
         acceleration,” in Advances in Neural Information Processing Systems,
         2016.
-    [2] A. d’Aspremont, D. Scieur, and A. Taylor, “Acceleration methods,”
+    [3] A. d’Aspremont, D. Scieur, and A. Taylor, “Acceleration methods,”
         arXiv preprint arXiv:2101.09545, 2021.
-    [3] "Anderson Acceleration," Stanford University Convex Optimization Group.
+    [4] "Anderson Acceleration," Stanford University Convex Optimization Group.
         https://github.com/cvxgrp/aa
 
     Examples
