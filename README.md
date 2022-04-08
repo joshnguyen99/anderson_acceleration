@@ -9,10 +9,11 @@ Implementation of the (regularized) Anderson acceleration (aka Approximate Maxim
 >>> x_acc = acc.apply(x)     # accelerated from x
 ```
 
-Check the jupyter notebook for examples.
+Check the jupyter notebooks for examples.
 
 <img src="AA_GD_quadratic.png" title="Comparing GD to AA on a quadratic objective with very high condition number">
 
+<img src="AA_GD_logistic_regression.png" title="Comparing GD to AA on a non-quadratic objective with very high condition number">
+
 TODO:
-- [ ] Add an example for non-quadratic objective, e.g., logistic regression
 - [ ] Add a version for `torch`'s model parameters
